@@ -1,2 +1,2 @@
-# Mamram-Workshop
-Materials for Yotam's lecture for Mamaram students
+# Mamram Language Modelling Workshop
+The materials for Yotam's Language Modelling lecture at Mamaram
