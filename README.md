@@ -16,4 +16,4 @@ The materials for Yotam's Language Modelling lecture at Mamaram
 
 ## Model Training Leaderboard
 
-For students participating in the workshop, please fill out your model evaluation scores in this [Leaderboard Google Sheet](https://docs.google.com/spreadsheets/d/1F5p0rA2SUAZwUu5-helqE22D-c0sFovfUGsvwrJqG_U/edit?usp=sharing).
+For students participating in the workshop, please fill out your model evaluation scores in this [Google Sheet](https://docs.google.com/spreadsheets/d/1F5p0rA2SUAZwUu5-helqE22D-c0sFovfUGsvwrJqG_U/edit?usp=sharing).
